@@ -1853,6 +1853,417 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "TrailCurrentSymbolLibrary:DS-04"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW1"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "DS-04"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "TrailCurrentFootprints:DS-04"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ebay.com/itm/203965125020"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "4-Position DIP Slide Switch, SPST, 2.54mm Pitch, DIP-8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "5.5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Generic"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "DS-04"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DS-04_0_1"
+				(rectangle
+					(start -5.08 8.89)
+					(end 5.08 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 6.35) (xy -1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy 1.27 6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.81) (xy -1.27 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.54) (xy 1.27 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.35) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 3.81) (xy 1.27 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "1"
+					(at -3.048 5.842 0)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(text "2"
+					(at -3.048 3.302 0)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(text "3"
+					(at -3.048 0.762 0)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(text "4"
+					(at -3.048 -1.778 0)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(symbol "DS-04_1_1"
+				(pin passive line
+					(at -7.62 5.08 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 5.08 180)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "TrailCurrentSymbolLibrary:NLV32T-3R9J-EF"
 			(pin_names
 				(offset 1.016)
@@ -3036,6 +3447,12 @@
 		(uuid "3370278b-aa2a-4ab7-a860-cae10e47913e")
 	)
 	(junction
+		(at 115.57 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44219d26-3570-492c-a1fa-ad9f17bbc900")
+	)
+	(junction
 		(at 39.37 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3046,6 +3463,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77470bd3-37eb-405e-8c67-0531cabe5e6b")
+	)
+	(junction
+		(at 38.1 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84a035e5-88b8-4fe2-b4d7-fd6f6686c1fb")
 	)
 	(junction
 		(at 96.52 158.75)
@@ -3064,6 +3487,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1e0f572-b112-401d-ada4-813c34ed8d3d")
+	)
+	(junction
+		(at 44.45 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9d73a0c-d20e-474b-94d1-2d732c4fb872")
 	)
 	(junction
 		(at 91.44 158.75)
@@ -3136,16 +3565,8 @@
 		(uuid "19a162c3-d104-494a-8923-e97303c056da")
 	)
 	(no_connect
-		(at 63.5 44.45)
-		(uuid "1b8aeb1b-7915-411a-a5cc-3cc2f9f83021")
-	)
-	(no_connect
 		(at 63.5 77.47)
 		(uuid "341e0663-ac98-4e5e-a636-667ef44c8f9c")
-	)
-	(no_connect
-		(at 63.5 41.91)
-		(uuid "374e021d-456b-41f0-833b-816414b77f37")
 	)
 	(no_connect
 		(at 63.5 80.01)
@@ -3170,10 +3591,6 @@
 	(no_connect
 		(at 63.5 72.39)
 		(uuid "cdb443cd-d374-40b5-a929-2e1328bb5026")
-	)
-	(no_connect
-		(at 93.98 95.25)
-		(uuid "e01d9a44-bbb9-4a34-8118-bc24a4ba4409")
 	)
 	(no_connect
 		(at 63.5 69.85)
@@ -3208,6 +3625,16 @@
 			(type default)
 		)
 		(uuid "0669f91a-c5df-4038-8abb-b562509bbd4c")
+	)
+	(wire
+		(pts
+			(xy 36.83 57.15) (xy 36.83 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0687abee-0c37-4e07-b452-c6688a6ea3cb")
 	)
 	(wire
 		(pts
@@ -3278,6 +3705,16 @@
 			(type default)
 		)
 		(uuid "11497500-8ae4-4a5f-82ed-6f54ce0b74c2")
+	)
+	(wire
+		(pts
+			(xy 100.33 111.76) (xy 115.57 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1392ec82-b3d3-4a30-9314-d0d499bd72c5")
 	)
 	(wire
 		(pts
@@ -3408,6 +3845,26 @@
 			(type default)
 		)
 		(uuid "36695731-2e15-47b5-9d33-5bfff225f27d")
+	)
+	(wire
+		(pts
+			(xy 44.45 57.15) (xy 36.83 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36bb6cbd-1ec3-40e0-bb6a-e8e2e89d31a6")
+	)
+	(wire
+		(pts
+			(xy 100.33 95.25) (xy 100.33 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37eb8d2b-5de4-4d5e-aa7a-d1048bf21717")
 	)
 	(wire
 		(pts
@@ -3591,6 +4048,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 71.12) (xy 55.88 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bbdd3b9-a021-44ff-97dd-71ba3aab5534")
+	)
+	(wire
+		(pts
 			(xy 179.07 74.93) (xy 182.88 74.93)
 		)
 		(stroke
@@ -3638,6 +4105,16 @@
 			(type default)
 		)
 		(uuid "63ed3379-47fc-491e-aaf5-350b47419b52")
+	)
+	(wire
+		(pts
+			(xy 44.45 57.15) (xy 50.8 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64725485-908e-4261-b5d1-789717633e11")
 	)
 	(wire
 		(pts
@@ -3711,6 +4188,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 149.86) (xy 208.28 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7aadba81-6334-476e-88b8-e66e004ff921")
+	)
+	(wire
+		(pts
 			(xy 129.54 46.99) (xy 133.35 46.99)
 		)
 		(stroke
@@ -3751,6 +4238,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 71.12) (xy 55.88 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88e5f263-67e6-4e84-9718-139d5674662f")
+	)
+	(wire
+		(pts
 			(xy 91.44 142.24) (xy 44.45 142.24)
 		)
 		(stroke
@@ -3761,6 +4258,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 44.45) (xy 63.5 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ae027c0-bed9-46e2-80f1-7742436a243f")
+	)
+	(wire
+		(pts
 			(xy 53.34 36.83) (xy 58.42 36.83)
 		)
 		(stroke
@@ -3768,6 +4275,16 @@
 			(type default)
 		)
 		(uuid "8bdebcb7-dfc3-400d-908d-3247c1748e53")
+	)
+	(wire
+		(pts
+			(xy 237.49 149.86) (xy 237.49 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e2ecfce-4b68-46da-8c47-f1378e4c8ddd")
 	)
 	(wire
 		(pts
@@ -3858,6 +4375,16 @@
 			(type default)
 		)
 		(uuid "a406cad5-5c14-442b-a72b-54b0fdfcc59a")
+	)
+	(wire
+		(pts
+			(xy 223.52 149.86) (xy 237.49 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a67cf9ee-fa26-46a1-b579-f1ae7cd7d687")
 	)
 	(wire
 		(pts
@@ -3961,6 +4488,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 41.91) (xy 63.5 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0ebcc05-ec36-419c-9e13-f74cdc22845a")
+	)
+	(wire
+		(pts
 			(xy 97.79 72.39) (xy 93.98 72.39)
 		)
 		(stroke
@@ -4001,6 +4538,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 142.24) (xy 208.28 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c58ddc41-a5a7-4563-b247-a006a988bfb2")
+	)
+	(wire
+		(pts
 			(xy 125.73 44.45) (xy 133.35 44.45)
 		)
 		(stroke
@@ -4018,6 +4565,16 @@
 			(type default)
 		)
 		(uuid "c6bb7dd8-2860-4b61-8f85-1fa90947b454")
+	)
+	(wire
+		(pts
+			(xy 50.8 57.15) (xy 50.8 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca4e8502-aadd-46ea-827d-a46cabb7b3e5")
 	)
 	(wire
 		(pts
@@ -4091,6 +4648,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 111.76) (xy 123.19 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e12469ab-04f6-436d-96d8-9160cbd10463")
+	)
+	(wire
+		(pts
 			(xy 116.84 92.71) (xy 93.98 92.71)
 		)
 		(stroke
@@ -4111,6 +4678,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 71.12) (xy 38.1 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e69e11ba-4488-41cb-92b9-7b8bbeabebeb")
+	)
+	(wire
+		(pts
 			(xy 69.85 156.21) (xy 69.85 171.45)
 		)
 		(stroke
@@ -4118,6 +4695,16 @@
 			(type default)
 		)
 		(uuid "e730ac67-3d6f-4371-a887-ac33ac5ef154")
+	)
+	(wire
+		(pts
+			(xy 196.85 147.32) (xy 208.28 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb82dcab-207d-4b1d-9cab-75723b4450e7")
 	)
 	(wire
 		(pts
@@ -4161,6 +4748,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 95.25) (xy 100.33 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f65c4929-9aa3-42e7-a907-0738550e0855")
+	)
+	(wire
+		(pts
 			(xy 58.42 36.83) (xy 63.5 36.83)
 		)
 		(stroke
@@ -4178,6 +4775,16 @@
 			(type default)
 		)
 		(uuid "f9bbf33f-db5f-4aee-9656-61e57e50b4a8")
+	)
+	(wire
+		(pts
+			(xy 196.85 144.78) (xy 208.28 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa54667f-658a-42ac-9f10-9172452223f6")
 	)
 	(wire
 		(pts
@@ -4248,6 +4855,16 @@
 			(justify left bottom)
 		)
 		(uuid "10c88ad6-9d83-4ece-9c83-5f5d257a73cf")
+	)
+	(label "ADDR03"
+		(at 123.19 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "151d2d98-66d3-4eb3-bf18-110ba6c73e10")
 	)
 	(label "BTN05"
 		(at 97.79 62.23 0)
@@ -4349,6 +4966,26 @@
 		)
 		(uuid "523ef804-aa99-4024-96f4-52b1b42f8577")
 	)
+	(label "CANL"
+		(at 196.85 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5e95a2f1-4580-4628-b6a3-060c52af57a8")
+	)
+	(label "ADDR01"
+		(at 196.85 147.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6584f1e0-0115-4b81-badb-420efa79e384")
+	)
 	(label "BTN04"
 		(at 97.79 52.07 0)
 		(effects
@@ -4399,6 +5036,16 @@
 		)
 		(uuid "7c833469-cb97-48e8-bbca-05df4074b241")
 	)
+	(label "ADDR02"
+		(at 36.83 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "81e638ef-3a5d-4f14-9aa3-4317a11f11f5")
+	)
 	(label "LED1"
 		(at 250.19 25.4 180)
 		(effects
@@ -4408,6 +5055,16 @@
 			(justify right bottom)
 		)
 		(uuid "8dcf5b06-8ec9-495d-809b-9753dcd84a70")
+	)
+	(label "ADDR02"
+		(at 196.85 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8fbdcccf-3373-476d-a268-7abc2a8ea92f")
 	)
 	(label "LED3"
 		(at 250.19 52.07 180)
@@ -4468,6 +5125,26 @@
 			(justify left bottom)
 		)
 		(uuid "a84726e5-98e0-401a-bd85-76ba4c598a1b")
+	)
+	(label "ADDR03"
+		(at 196.85 142.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a9f91509-a339-48f3-aaea-dfa8a0b43749")
+	)
+	(label "CANH"
+		(at 237.49 139.7 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac0ee37d-ef18-4190-9d8f-f3690960008a")
 	)
 	(label "LED7"
 		(at 248.92 106.68 180)
@@ -4618,6 +5295,16 @@
 			(justify left bottom)
 		)
 		(uuid "eedd885a-dd27-4605-afd9-978bd83a598e")
+	)
+	(label "ADDR01"
+		(at 30.48 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ef742c40-51c8-4528-8da8-967285ac526f")
 	)
 	(label "BTN01"
 		(at 168.91 39.37 180)
@@ -5209,6 +5896,73 @@
 			(project "trailer-switch-panel-eight-buttons"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 44.45 53.34 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "179e88dc-86e1-4e63-9764-02c38f5162e6")
+		(property "Reference" "R15"
+			(at 42.164 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 44.45 53.594 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 46.228 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 44.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 44.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "435d25ee-73ac-4069-a187-5f5e4634b394")
+		)
+		(pin "1"
+			(uuid "7019edf5-931a-44dc-aac1-6196aa334995")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -6359,6 +7113,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 223.52 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "595b7d18-90f7-4142-8b8c-82241eb134a3")
+		(property "Reference" "#PWR031"
+			(at 229.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cc61ee1-7238-4a54-ada0-854735d82e19")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 129.54 52.07 90)
 		(unit 1)
@@ -6628,6 +7449,140 @@
 			(project "esp32-wroom32-can-board"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61de2669-3462-4702-8fe8-ac98debdf472")
+		(property "Reference" "#PWR030"
+			(at 229.87 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24060418-af7b-4147-b7e7-0125bc97f24b")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 147.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6535a518-909a-43ab-9abc-1a2d8c0ba689")
+		(property "Reference" "#PWR032"
+			(at 229.87 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "724e82af-0a55-48cf-b0f2-7b8733c90eb1")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -8147,6 +9102,73 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 115.57 107.95 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b4bee762-9a53-4979-8cd9-798a1f67c818")
+		(property "Reference" "R14"
+			(at 113.284 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 115.57 108.204 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 117.348 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 115.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a1a20b66-3b9a-441c-bfcf-220ea98eff46")
+		)
+		(pin "1"
+			(uuid "a8406755-3cff-4984-9b50-d70823e9be12")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 256.54 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8352,6 +9374,73 @@
 			(project "trailer-switch-panel-eight-buttons"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 38.1 67.31 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8fe3f30-23bd-42c4-8ad8-8897162ea272")
+		(property "Reference" "R16"
+			(at 35.814 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 38.1 67.564 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 39.878 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 38.1 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "86eb58b8-5dd7-48a9-b9a7-006172fe1cae")
+		)
+		(pin "1"
+			(uuid "2e48cd99-f64a-48ce-89ad-c56155896bee")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -8825,6 +9914,119 @@
 		)
 	)
 	(symbol
+		(lib_id "TrailCurrentSymbolLibrary:DS-04")
+		(at 215.9 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd2adfab-3b8a-47fc-b733-17e60f8e038a")
+		(property "Reference" "SW9"
+			(at 215.9 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DS-04"
+			(at 215.9 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TrailCurrentFootprints:DS-04"
+			(at 215.9 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ebay.com/itm/203965125020"
+			(at 215.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "4-Position DIP Slide Switch, SPST, 2.54mm Pitch, DIP-8"
+			(at 215.9 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 215.9 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Generic"
+			(at 215.9 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DS-04"
+			(at 215.9 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "507fd883-9107-4cc8-926d-1dfa5a5b68fb")
+		)
+		(pin "8"
+			(uuid "2596c814-9f6b-4408-92a6-c140e020726e")
+		)
+		(pin "3"
+			(uuid "7350eebd-5a1d-456c-bc45-4a41b4af8089")
+		)
+		(pin "2"
+			(uuid "c94a0306-ae68-4eee-aaf6-7da94b990e65")
+		)
+		(pin "1"
+			(uuid "cc9b8d79-0b1a-408b-8464-abe9f0f9943d")
+		)
+		(pin "4"
+			(uuid "110bba30-3651-466c-aa2c-5cd6099ebe95")
+		)
+		(pin "6"
+			(uuid "b38a5f09-403a-4a1b-b311-afa93a399d33")
+		)
+		(pin "7"
+			(uuid "fe1364c4-7d14-4e02-b317-3687ea355447")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 76.2 154.94 0)
 		(unit 1)
@@ -9247,6 +10449,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 115.57 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eefd56b7-7246-424f-a139-be91d8765ce3")
+		(property "Reference" "#PWR027"
+			(at 115.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 115.57 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 115.57 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ae784aa-4f3c-46e9-bf50-83ebf59a5f26")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 264.16 91.44 180)
 		(unit 1)
@@ -9592,6 +10860,138 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 38.1 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f57c5263-0b00-4c07-829c-6aa313905972")
+		(property "Reference" "#PWR029"
+			(at 38.1 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 38.1 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 38.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38dcbc40-ac62-4811-97b4-f94fbccd50a8")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 44.45 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6432e6f-4c91-426d-85a0-037a55958e52")
+		(property "Reference" "#PWR028"
+			(at 44.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 44.45 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 44.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b52d9580-d346-4674-a563-74ef3e410960")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 137.16 144.78 90)
 		(unit 1)
@@ -9787,6 +11187,73 @@
 			(project "trailer-switch-panel-eight-buttons"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 237.49 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fdea04b2-5101-42e5-a338-188114dffb7f")
+		(property "Reference" "R13"
+			(at 239.776 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "120"
+			(at 237.49 143.256 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 235.712 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 237.49 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aedfa644-5ea7-447c-b3e6-6d39469a059c")
+		)
+		(pin "1"
+			(uuid "e27cfdaa-d72b-4090-abd5-a152bb6a264d")
+		)
+		(instances
+			(project "trailer-switch-panel-eight-buttons"
+				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
+					(reference "R13")
 					(unit 1)
 				)
 			)
