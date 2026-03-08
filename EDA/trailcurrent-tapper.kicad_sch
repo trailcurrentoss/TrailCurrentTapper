@@ -5435,7 +5435,7 @@
 			(uuid "65bf018b-0fcb-426c-82b5-3f767c2e3352")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R6")
 					(unit 1)
@@ -5582,7 +5582,7 @@
 			(uuid "192319e5-5088-4107-bc08-3b4f1e324e7f")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D6")
 					(unit 1)
@@ -5648,7 +5648,7 @@
 			(uuid "761d011c-559c-42bf-bb1c-9d074cc265bc")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR025")
 					(unit 1)
@@ -5715,7 +5715,7 @@
 			(uuid "93583c6e-a0e1-475f-a145-dcd816d4ccd6")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR018")
 					(unit 1)
@@ -5893,7 +5893,7 @@
 			(uuid "a60f48fd-b680-4cc4-a821-59bca2e41ee5")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW6")
 					(unit 1)
@@ -5960,7 +5960,7 @@
 			(uuid "7019edf5-931a-44dc-aac1-6196aa334995")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R15")
 					(unit 1)
@@ -6037,7 +6037,7 @@
 			(uuid "f90f9ab3-0566-4200-98df-8723ad104982")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D4")
 					(unit 1)
@@ -6174,7 +6174,7 @@
 			(uuid "65baebc5-c3be-4816-93d5-62e192ab329c")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R12")
 					(unit 1)
@@ -6403,7 +6403,7 @@
 			(uuid "e41ad915-6fa1-4ba8-a12f-dfeed78181ca")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R11")
 					(unit 1)
@@ -6557,7 +6557,7 @@
 			(uuid "3879632a-5ea6-431d-a3be-d843dd30181d")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D5")
 					(unit 1)
@@ -6625,7 +6625,7 @@
 			(uuid "dfa256fb-fcef-4f54-9a70-66e86f675b3c")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW7")
 					(unit 1)
@@ -6893,7 +6893,7 @@
 			(uuid "f2f4e85b-219c-445e-979f-a8204e1a486b")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR07")
 					(unit 1)
@@ -6970,7 +6970,7 @@
 			(uuid "6fdf9545-a8bf-4127-b08e-1eacde0ede5a")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D9")
 					(unit 1)
@@ -7037,7 +7037,7 @@
 			(uuid "5313e405-b83b-4e61-a069-018e43fe4821")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR016")
 					(unit 1)
@@ -7104,7 +7104,7 @@
 			(uuid "a5c266a2-0da7-43e2-9cf9-8926606cf40d")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR022")
 					(unit 1)
@@ -7171,7 +7171,7 @@
 			(uuid "2cc61ee1-7238-4a54-ada0-854735d82e19")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR031")
 					(unit 1)
@@ -7236,7 +7236,7 @@
 			(uuid "4cf359a4-289e-47c8-9bbd-9c573b1c8159")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR04")
 					(unit 1)
@@ -7513,7 +7513,7 @@
 			(uuid "24060418-af7b-4147-b7e7-0125bc97f24b")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR030")
 					(unit 1)
@@ -7580,7 +7580,7 @@
 			(uuid "724e82af-0a55-48cf-b0f2-7b8733c90eb1")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR032")
 					(unit 1)
@@ -7647,7 +7647,7 @@
 			(uuid "0c1e6ff6-9d94-4fa0-a693-72c147b10fe6")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR023")
 					(unit 1)
@@ -8085,7 +8085,7 @@
 			(uuid "aa2b632e-d408-4d81-8ed9-c1ac23c0b068")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R8")
 					(unit 1)
@@ -8162,7 +8162,7 @@
 			(uuid "da86e934-2c46-4ac1-bc0f-e0224ff3d4d7")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D3")
 					(unit 1)
@@ -8230,7 +8230,7 @@
 			(uuid "5249d033-9ddd-4f44-b3ed-2eeec71de76e")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW8")
 					(unit 1)
@@ -8296,7 +8296,7 @@
 			(uuid "cffdbe20-76fc-4db2-944e-ad4be918773f")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR026")
 					(unit 1)
@@ -8498,7 +8498,7 @@
 			(uuid "0dd22d91-3446-4ad1-a387-ca2a0323aac1")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR06")
 					(unit 1)
@@ -8565,7 +8565,7 @@
 			(uuid "4ccc7cfa-3a43-4315-aef7-20e4c7e0d557")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R9")
 					(unit 1)
@@ -8709,7 +8709,7 @@
 			(uuid "b5d1bd08-b253-4c1b-b2e0-374118d0040f")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR024")
 					(unit 1)
@@ -8777,7 +8777,7 @@
 			(uuid "24cac8a6-0617-4b35-a596-e7abec6510af")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW5")
 					(unit 1)
@@ -9159,7 +9159,7 @@
 			(uuid "a8406755-3cff-4984-9b50-d70823e9be12")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R14")
 					(unit 1)
@@ -9226,7 +9226,7 @@
 			(uuid "c09ef85d-a5e9-4bd1-a252-11136e23d8c9")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R7")
 					(unit 1)
@@ -9303,7 +9303,7 @@
 			(uuid "349b54d9-6dcb-456a-a6d4-fbcd1b7a4b72")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D8")
 					(unit 1)
@@ -9371,7 +9371,7 @@
 			(uuid "0abda9c8-c6a3-40e1-95e2-0734d73363c3")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW2")
 					(unit 1)
@@ -9438,7 +9438,7 @@
 			(uuid "2e48cd99-f64a-48ce-89ad-c56155896bee")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R16")
 					(unit 1)
@@ -9505,7 +9505,7 @@
 			(uuid "0a27cd6d-ed36-4eaa-a3f9-c7c588148b58")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR019")
 					(unit 1)
@@ -9570,7 +9570,7 @@
 			(uuid "d4162a92-3d2a-4d9b-9956-241dd528727b")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR05")
 					(unit 1)
@@ -9637,7 +9637,7 @@
 			(uuid "ee68fe8d-f64b-4099-b2fb-e859c7f2c25e")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R5")
 					(unit 1)
@@ -9705,7 +9705,7 @@
 			(uuid "a3436930-11e6-433d-9341-259279351b62")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW3")
 					(unit 1)
@@ -10018,7 +10018,7 @@
 			(uuid "fe1364c4-7d14-4e02-b317-3687ea355447")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW9")
 					(unit 1)
@@ -10242,7 +10242,7 @@
 			(uuid "3bea3659-a472-42b1-9569-ad4ddb04ed32")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR017")
 					(unit 1)
@@ -10308,7 +10308,7 @@
 			(uuid "b6f3fbb2-802c-44cb-9e2e-e7d8272473c2")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#FLG07")
 					(unit 1)
@@ -10506,7 +10506,7 @@
 			(uuid "3ae784aa-4f3c-46e9-bf50-83ebf59a5f26")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR027")
 					(unit 1)
@@ -10583,7 +10583,7 @@
 			(uuid "e96d6541-61b1-4e2f-a372-d83ec3d72289")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "D7")
 					(unit 1)
@@ -10851,7 +10851,7 @@
 			(uuid "314f937d-c49a-4b4f-8ce2-85a47b285a02")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "SW4")
 					(unit 1)
@@ -10917,7 +10917,7 @@
 			(uuid "38dcbc40-ac62-4811-97b4-f94fbccd50a8")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR029")
 					(unit 1)
@@ -10983,7 +10983,7 @@
 			(uuid "b52d9580-d346-4674-a563-74ef3e410960")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#PWR028")
 					(unit 1)
@@ -11117,7 +11117,7 @@
 			(uuid "34aa654d-a9fe-4a5b-8219-d8b16200a734")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R10")
 					(unit 1)
@@ -11184,7 +11184,7 @@
 			(uuid "943ae3e1-4cbf-4241-8301-4b37b42fd254")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "#FLG06")
 					(unit 1)
@@ -11251,7 +11251,7 @@
 			(uuid "e27cfdaa-d72b-4090-abd5-a152bb6a264d")
 		)
 		(instances
-			(project "trailer-switch-panel-eight-buttons"
+			(project "trailcurrent-tapper"
 				(path "/4baabe42-962d-4f17-9537-3da551a4d967"
 					(reference "R13")
 					(unit 1)

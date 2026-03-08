@@ -230,7 +230,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/79325c9b-f033-44f9-ab75-89d5957b0d32")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -507,7 +507,7 @@
 		)
 		(path "/5c8f0223-0424-4240-95c8-b17e0c01ff02")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.95 2.1)
@@ -784,7 +784,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b8fe3f30-23bd-42c4-8ad8-8897162ea272")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -986,7 +986,7 @@
 		(property ki_fp_filters "ESP32?WROOM?32*")
 		(path "/ae11137b-c2bd-467f-a34c-9dec5d4c8e7d")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -9.12 9.72)
@@ -1839,7 +1839,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/dd58f1c5-b084-4b7b-b74a-4e9beedbef06")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.06 2.56)
@@ -2206,7 +2206,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/86626e0d-73f6-4338-97e0-364bb1006e2e")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -2407,7 +2407,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/dd553d8e-281e-4d83-87bb-aed0e9683a84")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -2608,7 +2608,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/610c4b9f-813a-4520-b3b1-497a9b25e491")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -2809,7 +2809,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f6ac7cbe-7833-47e9-a5e3-a24b35971336")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -3010,7 +3010,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d9615228-4312-4e3b-84e8-864f62295c05")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -3212,7 +3212,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/056a6c06-8ec6-45e0-9595-299c66b7194c")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -3447,7 +3447,7 @@
 		)
 		(path "/7497b7b8-9f69-4264-8ee0-7735af625250")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -7.5 -3.75)
@@ -3926,7 +3926,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/32b564fa-1161-4ad7-85c8-dbb23db4eb5e")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -4125,7 +4125,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/179e88dc-86e1-4e63-9764-02c38f5162e6")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -4324,7 +4324,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fdea04b2-5101-42e5-a338-188114dffb7f")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -4562,7 +4562,7 @@
 		)
 		(path "/25add5f6-cc7e-4112-9873-aeef38e3e128")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.6 1.25)
@@ -4764,7 +4764,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/20c19309-e27f-4735-be58-5d98c7ae8039")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -4963,7 +4963,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b4bee762-9a53-4979-8cd9-798a1f67c818")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -5177,7 +5177,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/92738474-0523-485f-8c38-edacef5a84d9")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 1.135)
@@ -5434,7 +5434,7 @@
 		)
 		(path "/0eaba1e3-83f8-4e1a-89f7-6a9be5353171")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 8.775 -6.08)
@@ -5968,7 +5968,7 @@
 		)
 		(path "/dd2adfab-3b8a-47fc-b733-17e60f8e038a")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -5.12 -5.92)
@@ -6271,7 +6271,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2181de18-4509-46ff-99c7-019178c2f724")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -6549,7 +6549,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f7e41a77-67f6-408a-aea4-4917b26695ed")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -6769,7 +6769,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/efc3d8a1-951e-4c9f-810f-6247cf03fc13")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 1.135)
@@ -7011,7 +7011,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7aa0a79-fa35-4ac2-b71b-d655388586f1")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 1.135)
@@ -7239,7 +7239,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7af6f72f-d7a2-414d-88ae-1f8163755176")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -7444,7 +7444,7 @@
 		)
 		(path "/7b99943b-3f47-4f97-8e91-bb78aa86369f")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.75 -3)
@@ -8810,7 +8810,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f3ef19fc-6958-42dd-8d8d-02e303c745ba")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -9016,7 +9016,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b4d6a47b-11ea-4111-b8df-a972be91bb21")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -9221,7 +9221,7 @@
 		)
 		(path "/a103353e-a903-4fde-9507-194abe64881e")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.75 -3)
@@ -9588,7 +9588,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4614edbf-193b-44e6-bcc7-5b87487d1359")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 -1.135)
@@ -9816,7 +9816,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/02e0a250-714e-41d9-b126-b0718f2afa46")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -10022,7 +10022,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c267c044-87e7-4f64-8039-0455261fbf89")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -10227,7 +10227,7 @@
 		)
 		(path "/30d18048-4fe6-4763-ac03-2ca389ee7c21")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.75 -3)
@@ -10579,7 +10579,7 @@
 		)
 		(path "/1486ec28-0c48-4a96-9b6f-8d0cb2f4547b")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.75 -3)
@@ -10946,7 +10946,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/17fbc245-c500-4f43-a55f-a7d4c9c85071")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 -1.135)
@@ -11188,7 +11188,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2bca26ba-e3c1-49cb-b7d1-a7fb034dbae0")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 1.135)
@@ -11415,7 +11415,7 @@
 		)
 		(path "/b8322fcd-a549-4e98-91ff-4f942eb4ceb6")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 -1.5)
@@ -11768,7 +11768,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2a583841-3a33-4297-a016-13b2d516d290")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -11973,7 +11973,7 @@
 		)
 		(path "/2a3fc8df-474e-4f9e-972a-745a77f7a977")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 -1.5)
@@ -12325,7 +12325,7 @@
 		)
 		(path "/cea40dca-3d9b-4422-aaac-3f54572ad36b")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 -1.5)
@@ -12692,7 +12692,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/07ae44c2-fffc-44e0-be23-174806b09265")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 1.135)
@@ -12934,7 +12934,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2ec41162-0f81-4cb5-b826-161a6ef8e804")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 -1.135)
@@ -13176,7 +13176,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7b87b90c-d434-4f15-8928-4ab039e5cb13")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 -1.135)
@@ -13404,7 +13404,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8f328625-649b-4f7e-9915-4bdb8ed2f5db")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -13609,7 +13609,7 @@
 		)
 		(path "/f56b3811-95ca-4dc0-a93e-f7edc004933d")
 		(sheetname "/")
-		(sheetfile "trailer-switch-panel-eight-buttons.kicad_sch")
+		(sheetfile "trailcurrent-tapper.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 -1.5)

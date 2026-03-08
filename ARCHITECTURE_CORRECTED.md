@@ -2,7 +2,7 @@
 
 ## Understanding the Multi-Panel System
 
-The Eight Button Panel operates in a **coordinated multi-panel environment** where multiple panels share the same CAN bus. Each panel can control lights on other panels, so LED state must be **synchronized via CAN** rather than controlled locally.
+The TrailCurrent Tapper operates in a **coordinated multi-panel environment** where multiple panels share the same CAN bus. Each panel can control lights on other panels, so LED state must be **synchronized via CAN** rather than controlled locally.
 
 ---
 

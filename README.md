@@ -1,4 +1,4 @@
-# TrailCurrent Eight Button Panel
+# TrailCurrent Tapper
 
 Eight-button control panel that sends device commands and brightness control over a CAN bus interface with OTA firmware update capability. Part of the [TrailCurrent](https://trailcurrent.com) open-source vehicle platform.
 
@@ -73,7 +73,7 @@ See [KICAD_ENVIRONMENT_SETUP.md](https://github.com/trailcurrentoss/TrailCurrent
 1. **Set up environment variables** (see Library Dependencies above)
 2. **Open KiCAD:**
    ```bash
-   kicad EDA/trailer-switch-panel-eight-buttons.kicad_pro
+   kicad EDA/trailcurrent-tapper.kicad_pro
    ```
 3. **Verify libraries load** - All symbol and footprint libraries should resolve without errors
 4. **View 3D models** - Open PCB and press `Alt+3` to view the 3D visualization
@@ -140,9 +140,9 @@ All dependencies are automatically resolved by PlatformIO during the build proce
 ```
 ├── CAD/                          # FreeCAD enclosure design
 ├── EDA/                          # KiCAD hardware design files
-│   ├── trailer-switch-panel-eight-buttons.kicad_pro
-│   ├── trailer-switch-panel-eight-buttons.kicad_sch
-│   └── trailer-switch-panel-eight-buttons.kicad_pcb
+│   ├── trailcurrent-tapper.kicad_pro
+│   ├── trailcurrent-tapper.kicad_sch
+│   └── trailcurrent-tapper.kicad_pcb
 ├── src/                          # Firmware source
 │   ├── main.cpp                  # Button handling and CAN communication
 │   ├── globals.h                 # LED pin definitions

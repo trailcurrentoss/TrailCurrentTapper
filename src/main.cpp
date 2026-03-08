@@ -308,7 +308,7 @@ void setup() {
   Serial.begin(115200);
   delay(100);
 
-  debugln("=== TrailCurrent Eight Button Panel ===");
+  debugln("=== TrailCurrent Tapper ===");
   debugln("CAN Bus Control with OTA Updates");
 
   // Initialize LED pins (outputs)
